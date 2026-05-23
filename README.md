@@ -51,7 +51,7 @@ Résultat : aucune donnée exploitable n'a été remontée pour DIVA. Ce n'est p
 Analyse avec Yaazhini
 Yaazhini a pris le relais pour l'analyse interne de l'APK. L'outil permet d'inspecter le contenu de l'application sans avoir besoin d'un appareil physique.
 <img width="1919" height="876" alt="Page de téléchargement Yaazhini" src="https://github.com/user-attachments/assets/23733ef8-2d01-4f75-bfbc-96a44de737cd" />
-<img width="1595" height="733" alt="Résumé Yaazhini" src="https://github.com/user-attachments/assets/ab4a980e-47cc-4e6a-b927-bbc04389541c" />
+
 Permissions détectées
 Trois permissions ont été identifiées :
 
